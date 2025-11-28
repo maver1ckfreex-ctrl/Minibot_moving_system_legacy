@@ -2,3 +2,4 @@
 This is a achived file of minibot algorithm for university assignment.  
 I designed the most parts of fundemental moving functions, which introduce the coordination, compass, robot image(prediction moving) and other methods. 
 The code will be released no later than March, 2026.  
+Archive Code for Public-- GLER-08-1 ACT CODE AF-27-1
